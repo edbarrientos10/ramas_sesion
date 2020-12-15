@@ -1,3 +1,20 @@
 body {
     background-color: rgb(216, 73, 73);
 }
+
+.container-box {
+    background-color: cadetblue;
+
+}
+
+.container-box2 {
+    background-color: cyan;
+}
+
+.container-box2 > h2 {
+    color: white;
+}
+
+h2 {
+    color: black;
+}
