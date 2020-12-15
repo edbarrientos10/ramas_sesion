@@ -1,3 +1,10 @@
 body {
     background-color: rgb(216, 73, 73);
 }
+
+section {
+    background-color: darkgreen;
+    width: 90%;
+    height: 120px;
+    color: white;
+}
